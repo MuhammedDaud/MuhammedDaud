@@ -1,13 +1,33 @@
+👋 Hi, I’m Muhammad Daud
 
-- 👋 Hi, I’m Muhammad Daud
-- 👀 I’m interested in all things tech and exploring new programming languages. I’m especially passionate about creating cool projects with C++, Python, JavaScript, HTML, CSS, ReactJS, and SQL. If it involves code, count me in!
-- 🌱 I’m currently learning how to make my code more efficient and adding new features to my projects. I’m also diving deeper into advanced topics and looking to master the art of debugging.
-- 💞️ I’m looking to collaborate on exciting projects that challenge me and let me learn and grow. If you have an idea or need a coding partner, let’s build something amazing together!
-- 📫 How to reach me: You can find me on LinkedIn www.linkedin.com/in/muhammeddaud666. I promise I won’t ghost you!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once tried to code a joke-telling bot, but it only managed to debug itself with endless “404 Not Found” errors. 😅
+About Me
+I’m passionate about all things tech and love exploring new programming languages. My toolkit includes:
+- **C++**
+- **Python**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **ReactJS**
+- **SQL**
 
-<!---
-MuhammedDaud/MuhammedDaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If it involves code, count me in!
+
+Current Learning Goals
+I’m focused on:
+- Making my code more efficient
+- Adding new features to my projects
+- Diving deeper into advanced topics
+- Mastering the art of debugging
+
+Collaboration
+I’m on the lookout for exciting projects that challenge me and offer opportunities for growth. If you have an idea or need a coding partner, let’s build something amazing together!
+
+How to Reach Me
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/muhammeddaud666). I promise I won’t ghost you!
+
+😄 Pronouns
+He/Him
+
+Fun Fact
+I once tried to code a joke-telling bot, but it only managed to debug itself with endless “404 Not Found” errors. 😅
+
