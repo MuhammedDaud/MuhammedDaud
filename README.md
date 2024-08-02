@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Daud</h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammeddaud" alt="muhammeddaud" /></a> </p>
-
 - 📫 How to reach me **dawoodmateenkhan@gmail.com**
 
 - ⚡ Fun fact **Can't Code**
