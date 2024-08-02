@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Daud</h1>
+<h1 align="center">Muhammad Daud </h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
 
 - 📫 How to reach me **dawoodmateenkhan@gmail.com**
