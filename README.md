@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/MuhammedDaud/MuhammedDaud/blob/main/Screenshot%202024-08-13%20035513.png)
+![MasterHead](https://github.com/MuhammedDaud/MuhammedDaud/blob/main/Screenshot%202024-08-13%20035513.png)
 <h1 align="center">Muhammad Daud </h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
 
