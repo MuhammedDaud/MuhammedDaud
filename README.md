@@ -1,3 +1,4 @@
+[Header](./[Your header image])
 <h1 align="center">Muhammad Daud </h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
 
