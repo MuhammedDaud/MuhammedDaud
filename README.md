@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **dawoodmateenkhan@gmail.com**
 
-- ⚡ Fun fact **Can't Code**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
