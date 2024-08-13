@@ -1,4 +1,5 @@
-[Header](./[https://github.com/MuhammedDaud/MuhammedDaud/blob/main/Screenshot%202024-08-13%20035513.png?raw=true])
+add banner (use your links) :
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Muhammad Daud </h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
 
