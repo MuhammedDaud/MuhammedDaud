@@ -1,15 +1,10 @@
-
 ![MasterHead](https://github.com/MuhammedDaud/MuhammedDaud/blob/main/Dark%20Blue%20Purple%20Modern%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.jpg?raw=true)
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 <h1 align="center"> I'm Muhammad Daud</h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
 
 - 📫 How to reach me **daud.0000001@gmail.com**
+- 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
