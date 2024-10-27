@@ -4,7 +4,8 @@
 
 - 📫 How to reach me **daud.0000001@gmail.com**
 - 
-<img align="right" height="150" src="<iframe src="https://giphy.com/embed/o2KLYPem407CM"
+
+<img align="right" height="150" src="(https://giphy.com/embed/o2KLYPem407CM)"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammeddaud&show_icons=true&locale=en&layout=compact" alt="muhammeddaud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammeddaud&" alt="muhammeddaud" /></p>
+
+
