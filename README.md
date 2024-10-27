@@ -3,9 +3,9 @@
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
 
 - 📫 How to reach me **daud.0000001@gmail.com**
-- 
+  
 
-<img align="right" height="150" src="https://giphy.com/embed/o2KLYPem407CM"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN5OW15b25uMWExYjhwdDN6YnIyajEzNWl5cWM2dzdyazZrYW0wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2KLYPem407CM/giphy.webp"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
