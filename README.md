@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **daud.0000001@gmail.com**
 - 
-<img align="center" height="150" src="<iframe src="https://giphy.com/embed/o2KLYPem407CM"
+<img align="right" height="150" src="<iframe src="https://giphy.com/embed/o2KLYPem407CM"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
