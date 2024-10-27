@@ -13,10 +13,6 @@
 <a href="https://instagram.com/https://www.instagram.com/documental?igsh=mwuybglucxntcmdqeg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/documental?igsh=mwuybglucxntcmdqeg==" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammeddaud&show_icons=true&locale=en&layout=compact" alt="muhammeddaud" /></p>
-
-
 <div> <a href="https://github.com/MuhammedDaud" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedDaud&layout=compact&theme=transparent" alt=MuhammedDaud />
