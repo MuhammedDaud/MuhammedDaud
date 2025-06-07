@@ -1,11 +1,9 @@
 ![MasterHead](https://github.com/MuhammedDaud/MuhammedDaud/blob/main/Dark%20Blue%20Purple%20Modern%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.jpg?raw=true)
 <h1 align="center"> I'm Muhammad Daud</h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
-
-- 📫 How to reach me **daud.0000001@gmail.com**
   
 
-<img align="centre" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN5OW15b25uMWExYjhwdDN6YnIyajEzNWl5cWM2dzdyazZrYW0wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2KLYPem407CM/giphy.webp" />
+<img align="centre" height="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN5OW15b25uMWExYjhwdDN6YnIyajEzNWl5cWM2dzdyazZrYW0wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2KLYPem407CM/giphy.webp" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
