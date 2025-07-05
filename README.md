@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MuhammedDaud/MuhammedDaud/blob/main/Dark%20Blue%20Purple%20Modern%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.jpg?raw=true)
+![MasterHead](https://github.com/MuhammedDaud/MuhammedDaud/blob/main/dd.jpg?raw=true)
 <h1 align="center"> I'm Muhammad Daud</h1>
 <h3 align="center">"Innovative Coder | Crafting Solutions with Precision and Passion"</h3>
   
