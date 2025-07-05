@@ -167,9 +167,21 @@
 <p><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></p>
 </div>
 <div align="center">
-  <a href="[https://www.linkedin.com/in/william-ga/](https://www.linkedin.com/in/muhammeddaud666/)"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn"></a>
-  <a href="mailto:daud.0000001@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/muhammeddaud666/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Daud's LinkedIn Profile">
+  </a>
+
+
+  <!-- Gmail Badge -->
+  <a href="mailto:daud.0000001@gmail.com?subject=Hi%20Muhammad%20Daud,%20nice%20to%20meet%20you!" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20me%20an-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Daud">
+  </a>
+
+
 </div>
+
 
 <div align="center">
 <img align="centre" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN5OW15b25uMWExYjhwdDN6YnIyajEzNWl5cWM2dzdyazZrYW0wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2KLYPem407CM/giphy.webp" />
