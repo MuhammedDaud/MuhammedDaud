@@ -11,7 +11,7 @@
 </div>
 
   <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG"></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+Daud;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG"></a>
   </div>
 </div>
 <details open="">
